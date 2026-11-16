@@ -1,0 +1,2241 @@
+[
+  {
+    "id": "r061",
+    "name": "AAMC 2027 ERAS Residency Timeline",
+    "description": "Official application opening, submission, and program review dates for the 2027 Match cycle.",
+    "url": "https://students-residents.aamc.org/eras-tools-and-worksheets-residency-applicants/2027-eras-residency-timeline",
+    "access": "Free public calendar; submitting applications requires normal ERAS fees.",
+    "organization": "Association of American Medical Colleges",
+    "categories": [
+      "Application & Match Guidance"
+    ],
+    "rawCategories": [
+      "Application guidance"
+    ],
+    "noHomeStatus": "general",
+    "sources": [
+      "Reddit"
+    ],
+    "postLinks": [
+      "https://www.reddit.com/r/medicalschool/comments/1vd0n18/"
+    ]
+  },
+  {
+    "id": "r041",
+    "name": "AAMC ERAS Participating Specialties and Programs",
+    "description": "Directory of participating residency programs and specialty-specific application information",
+    "url": "https://systems.aamc.org/eras/erasstats/par/index.cfm?NAV_ROW=PAR",
+    "access": "Free public directory; select Neurological Surgery; applying through ERAS has separate fees",
+    "organization": "Founder not listed; provider: AAMC",
+    "categories": [
+      "Application & Match Guidance"
+    ],
+    "rawCategories": [
+      "Application and match guidance"
+    ],
+    "noHomeStatus": "no",
+    "sources": [
+      "Google"
+    ],
+    "postLinks": []
+  },
+  {
+    "id": "r063",
+    "name": "AAMC Residency Explorer",
+    "description": "Residency comparison tool with program statistics and applicant-context tools.",
+    "url": "https://students-residents.aamc.org/apply-smart-residency/residency-explorer-tool",
+    "access": "Public access to core data; some features require applicant login/ERAS context.",
+    "organization": "Association of American Medical Colleges",
+    "categories": [
+      "Application & Match Guidance"
+    ],
+    "rawCategories": [
+      "Application guidance"
+    ],
+    "noHomeStatus": "general",
+    "sources": [
+      "Reddit"
+    ],
+    "postLinks": [
+      "https://www.reddit.com/r/medicalschool/comments/1w6nzlu/"
+    ]
+  },
+  {
+    "id": "r018",
+    "name": "AAMC Visiting Student Learning Opportunities (VSLO)",
+    "description": "Actual system for locating/applying to participating neurosurgery away rotations and visiting electives.",
+    "url": "https://students-residents.aamc.org/visiting-student-learning-opportunities/visiting-student-learning-opportunities-vslo",
+    "access": "Participating home school and school authorization required. $15/elective in current season; $18 from February 2027. Host fees, travel and housing are additional",
+    "organization": "Founder not listed; operator: AAMC",
+    "categories": [
+      "Clinical Exposure",
+      "Application & Match Guidance"
+    ],
+    "rawCategories": [
+      "Clinical exposure; Application and match guidance",
+      "Clinical exposure"
+    ],
+    "noHomeStatus": "general",
+    "sources": [
+      "Google",
+      "Reddit"
+    ],
+    "postLinks": [
+      "https://www.reddit.com/r/medicalschool/comments/17um1vq/"
+    ]
+  },
+  {
+    "id": "r005",
+    "name": "AANS Medical Student Chapters",
+    "description": "Support for starting or joining a student group and connecting with the wider neurosurgery community",
+    "url": "https://www.aans.org/residents-students/medical-students/aans-medical-student-chapters/",
+    "access": "Schools without a neurosurgery department and osteopathic schools are explicitly eligible. Chapter application and rules apply; verify local dues and advisor requirements",
+    "organization": "Founder not listed; organizer: AANS",
+    "categories": [
+      "Mentorship & Networking",
+      "Community"
+    ],
+    "rawCategories": [
+      "Community; Mentorship and networking"
+    ],
+    "noHomeStatus": "no",
+    "sources": [
+      "Google"
+    ],
+    "postLinks": []
+  },
+  {
+    "id": "r007",
+    "name": "AANS Medical Student Membership",
+    "description": "Professional membership offering journal access, networking and student opportunities",
+    "url": "https://www.aans.org/membership/join-the-aans/medical-student-membership/",
+    "access": "Accredited US, Canadian or Mexican medical school; dean/medical-director signature. $25 application fee, waived for schools with an AANS chapter. Confirm any other dues",
+    "organization": "Founder not listed; organizer: AANS",
+    "categories": [
+      "Mentorship & Networking",
+      "Education",
+      "Community"
+    ],
+    "rawCategories": [
+      "Mentorship and networking; Community; Education"
+    ],
+    "noHomeStatus": "no",
+    "sources": [
+      "Google"
+    ],
+    "postLinks": []
+  },
+  {
+    "id": "r062",
+    "name": "AANS Neurosurgical Residency Program Directory",
+    "description": "Public, program-by-program list of North American neurosurgery residency programs with destinations and links.",
+    "url": "https://www.aans.org/residents-students/medical-students/residency-directory/",
+    "access": "Free public directory; contacting/listing does not imply a research opening.",
+    "organization": "American Association of Neurological Surgeons",
+    "categories": [
+      "Application & Match Guidance"
+    ],
+    "rawCategories": [
+      "Application guidance"
+    ],
+    "noHomeStatus": "general",
+    "sources": [
+      "Reddit"
+    ],
+    "postLinks": [
+      "https://www.reddit.com/r/Neurosurgery/comments/1g5vmaa/"
+    ]
+  },
+  {
+    "id": "r006",
+    "name": "AANS Resources for Students",
+    "description": "A collection of links to career advice, student chapters, educational materials and funding opportunities",
+    "url": "https://www.aans.org/membership/member-resources/resources-for-students/",
+    "access": "Free public directory. Linked resources may require membership, applications or payment",
+    "organization": "Founder not listed; publisher: AANS",
+    "categories": [
+      "Education",
+      "Application & Match Guidance",
+      "Community"
+    ],
+    "rawCategories": [
+      "Application and match guidance; Education; Community"
+    ],
+    "noHomeStatus": "no",
+    "sources": [
+      "Google"
+    ],
+    "postLinks": []
+  },
+  {
+    "id": "r084",
+    "name": "AANS/ CNS Tumor Section Neurosurgery Podcast",
+    "description": "Eduational podcast that is free to listen to.",
+    "url": "https://tumorsection.org/tumor-talk/",
+    "access": "Tumor section of AANS/CNS has multiple recurring podcasts that are open for anyone to listen to. Podcast is available on Spotify and Apple Podcast.",
+    "organization": "AANS/CNS Tumor Section",
+    "categories": [
+      "Education"
+    ],
+    "rawCategories": [
+      "Education"
+    ],
+    "noHomeStatus": "no",
+    "sources": [
+      "Instagram"
+    ],
+    "postLinks": [
+      "https://www.instagram.com/p/B4NM38hHApE/?utm_source=ig_web_copy_link&srtk=NTc4MTIwNjQ2YQ=="
+    ]
+  },
+  {
+    "id": "r067",
+    "name": "ABSN NeuroMentoring Matters",
+    "description": "Longitudinal mentorship program to foster collaboration, facilitate connections, and ecourage diversity in neurosurgery",
+    "url": "https://amsobns.org/neuro-mentoring-matters",
+    "access": "Open to pre-meds, medical students, residents, and attendings. Application required and is in the format of a google form that opens during the application window",
+    "organization": "American Society of Black Neurosurgeons",
+    "categories": [
+      "Mentorship & Networking"
+    ],
+    "rawCategories": [
+      "Mentorship and networking"
+    ],
+    "noHomeStatus": "no",
+    "sources": [
+      "Instagram"
+    ],
+    "postLinks": [
+      "https://www.instagram.com/p/DXPJS82lWtw/?utm_source=ig_web_copy_link&exln=MzRlODBiNWFlZA==&srtk=MzRlODBiNWFlZA=="
+    ]
+  },
+  {
+    "id": "r022",
+    "name": "ABTA Jack and Fay Netchin Medical Student Summer Fellowship",
+    "description": "Summer funding for brain-tumor research under a scientific mentor",
+    "url": "https://www.abta.org/medical-student-summer-fellowships/?campaign=773918",
+    "access": "$3,000 award; competitive mentored proposal. Verify eligibility and host requirements in the next RFA. External mentor institution permitted per UCSF listing",
+    "organization": "Founder not listed; funder: American Brain Tumor Association",
+    "categories": [
+      "Research Opportunities"
+    ],
+    "rawCategories": [
+      "Research opportunities"
+    ],
+    "noHomeStatus": "no",
+    "sources": [
+      "Google"
+    ],
+    "postLinks": []
+  },
+  {
+    "id": "r058",
+    "name": "Admit.org Residency tools",
+    "description": "Program list builder, application manager, and crowdsourced interview invite tracking.",
+    "url": "https://residency.admit.org/",
+    "access": "Basic site publicly accessible; account and individual feature availability vary.",
+    "organization": "Independent developer (u/Happiest_Rabbit)",
+    "categories": [
+      "Application & Match Guidance",
+      "Community"
+    ],
+    "rawCategories": [
+      "Application guidance / community"
+    ],
+    "noHomeStatus": "general",
+    "sources": [
+      "Reddit"
+    ],
+    "postLinks": [
+      "https://www.reddit.com/r/medicalschool/comments/1qdyx9v/"
+    ]
+  },
+  {
+    "id": "r035",
+    "name": "AHN Neurosurgery Educational and Research Opportunities",
+    "description": "A starting point for visiting students looking for clinical exposure, educational experiences or mentored research",
+    "url": "https://www.ahn.org/health-care-professionals/education/undergraduate-medical-education/neurosurgery-medical-student-program/educational-research-opportunities",
+    "access": "External visiting students welcome; contact department to arrange experience. Enrollment, onboarding, availability and any fees need confirmation",
+    "organization": "Founder not listed; provider: Allegheny Health Network",
+    "categories": [
+      "Mentorship & Networking",
+      "Research Opportunities",
+      "Clinical Exposure"
+    ],
+    "rawCategories": [
+      "Clinical exposure; Research opportunities; Mentorship and networking"
+    ],
+    "noHomeStatus": "no",
+    "sources": [
+      "Google"
+    ],
+    "postLinks": []
+  },
+  {
+    "id": "r090",
+    "name": "Annual Neurosurgery Med Student Social",
+    "description": "Networking event for medical students interested in neurosurgery.",
+    "url": "",
+    "access": "Open to medical students interested in neurosurgery. Application is available in the instagram's bio when the event is near.",
+    "organization": "Gabby Dituri and Chinmayi Balusu at Tulane University",
+    "categories": [
+      "Mentorship & Networking"
+    ],
+    "rawCategories": [
+      "Networking"
+    ],
+    "noHomeStatus": "no",
+    "sources": [
+      "Instagram"
+    ],
+    "postLinks": [
+      "https://www.instagram.com/p/DaqSOw8slS3/?utm_source=ig_web_copy_link&exln=NTc4MTIwNjQ2YQ=="
+    ]
+  },
+  {
+    "id": "r100",
+    "name": "ASSFN AMPLify",
+    "description": "Funded program for medical students and residents who are interested in functional/stereotactic neurosurgery. The program provides mentorship, coursework, and a 3-month visiting fellowship at a mentor institution.",
+    "url": "https://assfn.org/about-assfn/newsletters/fall-2026/amplify-your-future-apply-to-assfn-functional-neurosurgery-mentorship-program/",
+    "access": "Must be a medical student or resident in North America in good standing. There is an application that includes a cover letter, CV, letter of support from mentor, AMPLify proposal, and itemized budget.",
+    "organization": "ASSFN",
+    "categories": [
+      "Mentorship & Networking",
+      "Clinical Exposure"
+    ],
+    "rawCategories": [
+      "Mentorship, clinical exposure"
+    ],
+    "noHomeStatus": "encouraged",
+    "sources": [
+      "Twitter"
+    ],
+    "postLinks": [
+      "https://x.com/ASSFNeurosurg/status/2089699081291731090?s=20"
+    ]
+  },
+  {
+    "id": "r082",
+    "name": "ASSFN AMPLify Program",
+    "description": "Funded program for medical students and residents who are interested in functional/stereotactic neurosurgery. The program provides mentorship, coursework, and a 3-month visiting fellowship at a mentor institution.",
+    "url": "https://assfn.org/about-assfn/newsletters/fall-2026/amplify-your-future-apply-to-assfn-functional-neurosurgery-mentorship-program/",
+    "access": "Must be a medical student or resident in North America in good standing. There is an application that includes a cover letter, CV, letter of support from mentor, AMPLify proposal, and itemized budget.",
+    "organization": "ASSFN",
+    "categories": [
+      "Mentorship & Networking",
+      "Clinical Exposure"
+    ],
+    "rawCategories": [
+      "Mentorship, clinical exposure"
+    ],
+    "noHomeStatus": "encouraged",
+    "sources": [
+      "Instagram"
+    ],
+    "postLinks": [
+      "https://www.instagram.com/p/DcQ0_IECatx/?utm_source=ig_web_copy_link&obrf=NTc4MTIwNjQ2YQ=="
+    ]
+  },
+  {
+    "id": "r014",
+    "name": "Barrow Neurosurgery Grand Rounds for Medical Students",
+    "description": "Access to live neurosurgery grand rounds and recorded talks for medical students",
+    "url": "https://edu.barrowneuro.org/browse/bnigr/programs/grstudent",
+    "access": "Free; enrollment link provided. Confirm account verification and access after enrollment",
+    "organization": "Founder not listed; provider: Barrow Neurological Institute",
+    "categories": [
+      "Education"
+    ],
+    "rawCategories": [
+      "Education"
+    ],
+    "noHomeStatus": "no",
+    "sources": [
+      "Google"
+    ],
+    "postLinks": []
+  },
+  {
+    "id": "r043",
+    "name": "Baylor Neurosurgery Visiting Subinternship",
+    "description": "Four-week clinical elective with the neurosurgery team for visiting fourth-year students",
+    "url": "https://www.bcm.edu/departments/neurosurgery/education/medical-student-program",
+    "access": "Fourth-year student in good standing at a US medical school; apply through VSLO and contact the department; fees, travel and housing costs need checking",
+    "organization": "Founder not listed; provider: Baylor College of Medicine",
+    "categories": [
+      "Clinical Exposure"
+    ],
+    "rawCategories": [
+      "Clinical exposure"
+    ],
+    "noHomeStatus": "no",
+    "sources": [
+      "Google"
+    ],
+    "postLinks": []
+  },
+  {
+    "id": "r015",
+    "name": "BEYOND",
+    "description": "Free course exploring neurosurgery and the specialties it works with, offered online and in person",
+    "url": "https://www.beyondmeded.org/about",
+    "access": "Free; student registration required. Recordings restricted to student access. Confirm next cohort and eligibility for external/international students",
+    "organization": "Sonia Ajmera and Visish Srinivasan, co-founders",
+    "categories": [
+      "Mentorship & Networking",
+      "Clinical Exposure",
+      "Education"
+    ],
+    "rawCategories": [
+      "Education; Mentorship and networking; Clinical exposure"
+    ],
+    "noHomeStatus": "no",
+    "sources": [
+      "Google"
+    ],
+    "postLinks": []
+  },
+  {
+    "id": "r010",
+    "name": "Brain & Spine Group Learn",
+    "description": "Online neurosurgery education platform, including Foundations of Neurosurgical Subspecialties and training-camp material",
+    "url": "https://learn.brainandspinegroup.org/",
+    "access": "Public catalog redirects to apps.learn.brainandspinegroup.org. Course enrollment/account may be required.",
+    "organization": "Ryan E. Radwanski, founder/CEO of parent Brain & Spine Group; course-specific founder not stated",
+    "categories": [
+      "Education"
+    ],
+    "rawCategories": [
+      "Education"
+    ],
+    "noHomeStatus": "no",
+    "sources": [
+      "Google"
+    ],
+    "postLinks": []
+  },
+  {
+    "id": "r038",
+    "name": "Brain & Spine Group Research Teams",
+    "description": "Opportunities to connect with collaborative research teams across institutions",
+    "url": "https://brainandspinegroup.org/research-teams/",
+    "access": "Inquiry/application to join a team; project-specific selection.",
+    "organization": "Ryan E. Radwanski, founder/CEO of parent organization",
+    "categories": [
+      "Mentorship & Networking",
+      "Research Opportunities"
+    ],
+    "rawCategories": [
+      "Research opportunities; Mentorship and networking"
+    ],
+    "noHomeStatus": "no",
+    "sources": [
+      "Google"
+    ],
+    "postLinks": []
+  },
+  {
+    "id": "r087",
+    "name": "Brain and Spine Group: Connecting students to research",
+    "description": "Brain and Spine group connects students to research opportunities. They help connect students with mentors and begin projects.",
+    "url": "https://brainandspinegroup.org",
+    "access": "No standard application. Students should reach out by filling the mentorship updates form or exploring current openings on their website.",
+    "organization": "Brain and Spine Group",
+    "categories": [
+      "Mentorship & Networking",
+      "Research Opportunities"
+    ],
+    "rawCategories": [
+      "Research and mentorship"
+    ],
+    "noHomeStatus": "no",
+    "sources": [
+      "Instagram"
+    ],
+    "postLinks": [
+      "https://www.instagram.com/p/DefTlnzDOZ6/?utm_source=ig_web_copy_link&cplk=MzRlODBiNWFlZA==&srtk=MzRlODBiNWFlZA=="
+    ]
+  },
+  {
+    "id": "r088",
+    "name": "BRAINterns Annual Webinar Series at Lenox Hill Neurosurgery",
+    "description": "Recurring neurosurgery webinar that features exposure and connection with neurosurgeons and researchers.",
+    "url": "",
+    "access": "The virtual series is open to anyone who is interested in learning. There is a sign-up link in the account's bio when the webinar is nearing.",
+    "organization": "Lenox Hill Hospital/Northwell Neurosurgery",
+    "categories": [
+      "Education"
+    ],
+    "rawCategories": [
+      "Education"
+    ],
+    "noHomeStatus": "no",
+    "sources": [
+      "Instagram"
+    ],
+    "postLinks": [
+      "https://www.instagram.com/p/DaQobhzx4ai/?utm_source=ig_web_copy_link&exln=MzRlODBiNWFlZA==&srtk=MzRlODBiNWFlZA=="
+    ]
+  },
+  {
+    "id": "r089",
+    "name": "Brown Neurosurgery Sub-Internship",
+    "description": "Four week neurosurgery sub-internship",
+    "url": "https://records.med.brown.edu/visiting-student-program-overview",
+    "access": "Open to fourth year U.S. mediccal students who are in good standing. Students should apply via the VSLO application.",
+    "organization": "Brown Medical School Neurosurgery department.",
+    "categories": [
+      "Clinical Exposure",
+      "Education"
+    ],
+    "rawCategories": [
+      "Sub-internship: education/clinical exposure"
+    ],
+    "noHomeStatus": "no",
+    "sources": [
+      "Instagram"
+    ],
+    "postLinks": [
+      "https://www.instagram.com/p/C5qldMGul1s/?utm_source=ig_web_copy_link&srtk=MzRlODBiNWFlZA=="
+    ]
+  },
+  {
+    "id": "r002",
+    "name": "Cincinnati Neurosurgery Gap Year Scholars Program",
+    "description": "Year long program between M3/OSMS3 and M4/OMS4 years offered to two medical students commited to neurosrugery.The program offers clinical exposure, research opportunities, and mentorship. Students receive $50,000 in funding and research-related expenses are covered",
+    "url": "https://www.cincinnatichildrens.org/education/clinical/student-grad/neurosurgery",
+    "access": "MD/DO students without a home neurosurgery residency; competitive application. $50,000 participant funding. Lab covers research expenses",
+    "organization": "Founder not listed; Joint hosts: Cincinnati Children's and University of Cincinnati. Director: Francesco Mangano",
+    "categories": [
+      "Mentorship & Networking",
+      "Research Opportunities",
+      "Clinical Exposure",
+      "Application & Match Guidance",
+      "Without a Home Program"
+    ],
+    "rawCategories": [
+      "Research opportunities; Mentorship and networking; Clinical exposure; Application and match guidance",
+      "Research, clinical exposure, and mentorship"
+    ],
+    "noHomeStatus": "yes",
+    "sources": [
+      "Google",
+      "Instagram",
+      "Twitter"
+    ],
+    "postLinks": [
+      "https://www.instagram.com/p/DdSQtjlNUD0/?utm_source=ig_web_copy_link&psln=MzRlODBiNWFlZA==&srtk=MzRlODBiNWFlZA==",
+      "https://x.com/ACOS_MSS/status/2099634376438866246?a=6OAuRWBGbPbdZTkO2Xk&s=20"
+    ]
+  },
+  {
+    "id": "r008",
+    "name": "CNS Medical Student Membership",
+    "description": "Free professional membership with educational resources, committee opportunities and meeting discounts",
+    "url": "https://www.cns.org/membership/medical-student",
+    "access": "Free. Enrollment in good standing and official verification of enrollment and expected graduation required; membership approval required",
+    "organization": "Founder not listed; organizer: Congress of Neurological Surgeons",
+    "categories": [
+      "Mentorship & Networking",
+      "Education",
+      "Community"
+    ],
+    "rawCategories": [
+      "Mentorship and networking; Community; Education"
+    ],
+    "noHomeStatus": "no",
+    "sources": [
+      "Google"
+    ],
+    "postLinks": []
+  },
+  {
+    "id": "r079",
+    "name": "CNS Medical Student Sub-Committee",
+    "description": "Opportunity for medical students to get involves in leadership with CNS",
+    "url": "https://www.cns.org/membership/medical-student",
+    "access": "CNS membership and application to become apart of the comitte.",
+    "organization": "Congress of Neurological Surgeons comittee.",
+    "categories": [
+      "Mentorship & Networking"
+    ],
+    "rawCategories": [
+      "Leadership and mentorship."
+    ],
+    "noHomeStatus": "no",
+    "sources": [
+      "Instagram"
+    ],
+    "postLinks": [
+      "https://www.instagram.com/p/DdH0acAK2Dg/?utm_source=ig_web_copy_link&dlrf=NTc4MTIwNjQ2YQ=="
+    ]
+  },
+  {
+    "id": "r105",
+    "name": "CNS/WINS Medical Student Social",
+    "description": "In-person social held at the annual CNS meeting. Allows students to meet other students, attendings, and residents in the field and network.",
+    "url": "",
+    "access": "No formal application. It will be open to all who attend the annual CNS meeting.",
+    "organization": "CNS and WINS",
+    "categories": [
+      "Mentorship & Networking"
+    ],
+    "rawCategories": [
+      "Networking"
+    ],
+    "noHomeStatus": "no",
+    "sources": [
+      "Twitter"
+    ],
+    "postLinks": [
+      "https://x.com/WomenInNSGY/status/2103979600137372091?a=cMdran-HzVS4D-rJ6d4&s=20"
+    ]
+  },
+  {
+    "id": "r072",
+    "name": "College of Medicine Tucson Pre-Residency Neurosurgery Fellowship",
+    "description": "Post-MD fellowship to provide hands-on neurosurgery experience and research before resdiency applications",
+    "url": "https://medicine.arizona.edu/neurosurgery/fellowship-program",
+    "access": "Graduate of LCME accredited medical school and application that involves a CV, letter of interest, passed USLME/COMLEX, 3 letters of recommendation, and transcript",
+    "organization": "University of Arizona Neurosurgery",
+    "categories": [
+      "Mentorship & Networking",
+      "Clinical Exposure"
+    ],
+    "rawCategories": [
+      "Clinical Exposure, networking, and neurosurgery"
+    ],
+    "noHomeStatus": "no",
+    "sources": [
+      "Instagram"
+    ],
+    "postLinks": [
+      "https://www.instagram.com/p/DVqmgOIlvFZ/?utm_source=ig_web_copy_link&exln=MzRlODBiNWFlZA==&srtk=MzRlODBiNWFlZA=="
+    ]
+  },
+  {
+    "id": "r021",
+    "name": "CSNS Medical Student Summer Fellowship in Socioeconomic Research",
+    "description": "Eight- to ten-week mentored project on socioeconomic issues affecting neurosurgery",
+    "url": "https://csnsonline.org/medical-student-summer-fellowship/",
+    "access": "US/Canadian medical students; proposal and mentor required. $2,500 student stipend. Competitive application",
+    "organization": "Founder not listed; sponsor: Council of State Neurosurgical Societies",
+    "categories": [
+      "Research Opportunities"
+    ],
+    "rawCategories": [
+      "Research opportunities"
+    ],
+    "noHomeStatus": "no",
+    "sources": [
+      "Google"
+    ],
+    "postLinks": []
+  },
+  {
+    "id": "r056",
+    "name": "Doximity Residency Navigator",
+    "description": "Residency directory with specialty comparisons, reported ratings, research output, and program profiles.",
+    "url": "https://www.doximity.com/residency/",
+    "access": "Free to verified medical students; account and identity verification.",
+    "organization": "Doximity",
+    "categories": [
+      "Application & Match Guidance"
+    ],
+    "rawCategories": [
+      "Application guidance"
+    ],
+    "noHomeStatus": "general",
+    "sources": [
+      "Reddit"
+    ],
+    "postLinks": [
+      "https://www.reddit.com/r/medicalschool/comments/17um1vq/"
+    ]
+  },
+  {
+    "id": "r001",
+    "name": "EXPANSE",
+    "description": "Summer research across partner institutions, with ongoing research training, career mentorship and clinical observation",
+    "url": "https://neurosurgery.ucsf.edu/expanse-program",
+    "access": "US LCME medical students in years 1–2 at schools without a neurosurgery residency. Application and dean certification required. NIH/ABNS-funded; individual stipend and out-of-pocket costs not stated",
+    "organization": "Founder not listed; host: UCSF and partner centers; funders: NIH and ABNS",
+    "categories": [
+      "Mentorship & Networking",
+      "Research Opportunities",
+      "Clinical Exposure",
+      "Without a Home Program",
+      "Education"
+    ],
+    "rawCategories": [
+      "Research opportunities; Mentorship and networking; Clinical exposure",
+      "Research, mentorship, education, clinical exposure"
+    ],
+    "noHomeStatus": "yes",
+    "sources": [
+      "Google",
+      "Instagram",
+      "Twitter"
+    ],
+    "postLinks": [
+      "https://www.instagram.com/p/DWB0U8oFcWW/?utm_source=ig_web_copy_link&vrfl=MzRlODBiNWFlZA==&srtk=MzRlODBiNWFlZA==",
+      "https://x.com/NeurosurgUCSF/status/2038678061441589305?s=20"
+    ]
+  },
+  {
+    "id": "r055",
+    "name": "FREIDA residency database",
+    "description": "AMA directory of U.S. residency programs, program profiles, and comparison fields.",
+    "url": "https://freida.ama-assn.org/",
+    "access": "Basic search free; additional features may need AMA account or membership.",
+    "organization": "American Medical Association",
+    "categories": [
+      "Application & Match Guidance"
+    ],
+    "rawCategories": [
+      "Application guidance"
+    ],
+    "noHomeStatus": "general",
+    "sources": [
+      "Reddit"
+    ],
+    "postLinks": [
+      "https://www.reddit.com/r/medicalschool/comments/17um1vq/"
+    ]
+  },
+  {
+    "id": "r030",
+    "name": "Iowa Scholarship for Visiting Students in Neurosurgery",
+    "description": "Travel and housing support for selected visiting neurosurgery sub-interns",
+    "url": "https://neurosurgery.medicine.uiowa.edu/education/medical-student-education-0/visiting-medical-student-education",
+    "access": "Completed third year at an LCME-accredited institution outside Iowa. DO students explicitly ineligible. Competitive award; amount not stated",
+    "organization": "Founder not listed; provider: University of Iowa Department of Neurosurgery",
+    "categories": [
+      "Clinical Exposure"
+    ],
+    "rawCategories": [
+      "Clinical exposure"
+    ],
+    "noHomeStatus": "no",
+    "sources": [
+      "Google"
+    ],
+    "postLinks": []
+  },
+  {
+    "id": "r032",
+    "name": "Johns Hopkins Neurosurgery Electives",
+    "description": "Information and applications for visiting neurosurgery subinternships and clinical electives",
+    "url": "https://www.hopkinsmedicine.org/neurology-neurosurgery/education/neurosurgery-electives",
+    "access": "US medical students entering neurosurgery match; preliminary application with CV, recommendation and preferred dates. Preliminary application is free; total rotation costs not stated",
+    "organization": "Founder not listed; provider: Johns Hopkins Department of Neurosurgery",
+    "categories": [
+      "Clinical Exposure"
+    ],
+    "rawCategories": [
+      "Clinical exposure"
+    ],
+    "noHomeStatus": "no",
+    "sources": [
+      "Google"
+    ],
+    "postLinks": []
+  },
+  {
+    "id": "r092",
+    "name": "Latinos in Neurosurgery",
+    "description": "National organization that offers research, mentorship, and networking for Latino individuals pursuing neurosurgery.",
+    "url": "https://www.latinosinneurosurgery.com/about-2",
+    "access": "Open latino individuals in medical school who are pursuing neurosurgery. There is no standard application.",
+    "organization": "Sanjeev Herr, MD, MS/ Latinos in Neurosurgery",
+    "categories": [
+      "Mentorship & Networking",
+      "Research Opportunities"
+    ],
+    "rawCategories": [
+      "Research, mentorship, networking",
+      "Research, networking, mentorship"
+    ],
+    "noHomeStatus": "no",
+    "sources": [
+      "Instagram",
+      "Twitter"
+    ],
+    "postLinks": [
+      "https://www.instagram.com/p/DPFn0KlEYgq/?utm_source=ig_web_copy_link&psln=NTc4MTIwNjQ2YQ==",
+      "https://x.com/LatinxNSGY/status/1971765526042161403?a=dy3s-iN9cgjF1nnpp9E&s=20"
+    ]
+  },
+  {
+    "id": "r101",
+    "name": "Loyola Neurosurgery Sub-Internship Rotation",
+    "description": "Fourth year medical student neurosurgery rotation.",
+    "url": "https://www.luc.edu/stritch/neurosurgery/education/subinternship/",
+    "access": "Must be a fourth year medical student in good academic standing, have completed all third year core clerkships, passed USLME Step 1, health documentation, and application through VSLO",
+    "organization": "Loyola Stritch School of Medicine Neurological Surgery",
+    "categories": [
+      "Clinical Exposure"
+    ],
+    "rawCategories": [
+      "Sub-internship, clinical exposure"
+    ],
+    "noHomeStatus": "no",
+    "sources": [
+      "Twitter"
+    ],
+    "postLinks": [
+      "https://x.com/LUNeurosurgery/status/2035422032230318136?s=20"
+    ]
+  },
+  {
+    "id": "r027",
+    "name": "Maryland Dr. Charles Bagley Jr. Neurosurgery Research Fellowship",
+    "description": "One-year basic, translational or clinical neurosurgery research opportunity",
+    "url": "https://www.umms.org/ummc/pros/education-training/programs/neurosurgery/medical-students",
+    "access": "US medical student or medical graduate; application through university jobs portal, typically March–April. Salary/stipend and costs not stated",
+    "organization": "Founder not listed; University of Maryland; fellowship named for Charles Bagley Jr",
+    "categories": [
+      "Research Opportunities"
+    ],
+    "rawCategories": [
+      "Research opportunities"
+    ],
+    "noHomeStatus": "no",
+    "sources": [
+      "Google"
+    ],
+    "postLinks": []
+  },
+  {
+    "id": "r103",
+    "name": "Maryland Neurosurgery Bagley Research Fellowship",
+    "description": "This is a one-year long, paid, and mentored research position open to medical students and masters students. Peer-reviewed publications are expected and there is guidance along the way. There is also an opportunity to observe clinical outcomes and work directly with residents and attending surgeons",
+    "url": "https://www.umms.org/ummc/pros/education-training/programs/neurosurgery/medical-students",
+    "access": "A formal application opens yearly. Students should apply through the University of Maryland Baltimore Job portal. Application must include a CV, letter of intent, medical school trasncript, two letters of recommendation, and USMLE score reports.",
+    "organization": "UMD Neurosurger/ Dr. Charles Bagley",
+    "categories": [
+      "Research Opportunities"
+    ],
+    "rawCategories": [
+      "Research"
+    ],
+    "noHomeStatus": "no",
+    "sources": [
+      "Twitter"
+    ],
+    "postLinks": [
+      "https://x.com/UMDNeurosurgery/status/1759264379218915664?a=2eMPAIXntlUaT6gDf8c&s=20"
+    ]
+  },
+  {
+    "id": "r096",
+    "name": "MedSchool Mentor webinar series",
+    "description": "Virtual webinars that feature a variety of topics and speakers in neurosurgery. There are new events posted on the account's page as they come up, and previous recordings are available on their YouTube page",
+    "url": "",
+    "access": "Sign up form opens one week prior to the event",
+    "organization": "Min J Kim",
+    "categories": [
+      "Mentorship & Networking",
+      "Education"
+    ],
+    "rawCategories": [
+      "Mentorship, Education, networking"
+    ],
+    "noHomeStatus": "no",
+    "sources": [
+      "Twitter"
+    ],
+    "postLinks": [
+      "https://x.com/MentorMedschool/status/1926754468399403303?s=20"
+    ]
+  },
+  {
+    "id": "r065",
+    "name": "Mehlman Medical HY Neuroanatomy PDF",
+    "description": "Freely available targeted USMLE neuroanatomy review PDF; focused medical-student review rather than operative techniques.",
+    "url": "https://freestuff.mehlmanmedical.com/",
+    "access": "Free PDF download; no home program needed.",
+    "organization": "Mehlman Medical",
+    "categories": [
+      "Education"
+    ],
+    "rawCategories": [
+      "Education"
+    ],
+    "noHomeStatus": "general",
+    "sources": [
+      "Reddit"
+    ],
+    "postLinks": [
+      "https://www.reddit.com/r/medicalschool/comments/1ih645w/"
+    ]
+  },
+  {
+    "id": "r083",
+    "name": "MGB Neurosurgery Sub-Internship",
+    "description": "Sub-Internship",
+    "url": "https://www.jotform.com/form/240054864823154",
+    "access": "Open to medical students pursuing neurosurgery. Formal application that is available as a QR code in the post.",
+    "organization": "Mass General Brigham Neurosurgery",
+    "categories": [
+      "Clinical Exposure",
+      "Education"
+    ],
+    "rawCategories": [
+      "Sub-internship: education/clinical exposure"
+    ],
+    "noHomeStatus": "no",
+    "sources": [
+      "Instagram"
+    ],
+    "postLinks": [
+      "https://www.instagram.com/p/DUJHERmkenV/?utm_source=ig_web_copy_link&mdxt=NTc4MTIwNjQ2YQ=="
+    ]
+  },
+  {
+    "id": "r069",
+    "name": "Mission Brain Research Peer Mentorship Program",
+    "description": "Program that connects research trainess with mentors to work together on neuro-releated research projects.",
+    "url": "https://www.missionbrain.org/learning-center-post/the-global-neuroscience-research-group-building-knowledge-bridging-worlds",
+    "access": "Online application that opens during cycle. Open to students interested in neurosurgery and neuroscience",
+    "organization": "Mission:Brain",
+    "categories": [
+      "Mentorship & Networking",
+      "Research Opportunities"
+    ],
+    "rawCategories": [
+      "Mentorship and research"
+    ],
+    "noHomeStatus": "no",
+    "sources": [
+      "Instagram"
+    ],
+    "postLinks": [
+      "https://www.instagram.com/p/Dbd3yKoGg3c/?utm_source=ig_web_copy_link&vrfl=MzRlODBiNWFlZA==&srtk=MzRlODBiNWFlZA=="
+    ]
+  },
+  {
+    "id": "r091",
+    "name": "Mission Brain Trainee position",
+    "description": "Research training opportunity open to pre-med and medical students. Connects students with mentors and allows them the opportunity to develop a research project with the potential to present it at an in-person conference.",
+    "url": "",
+    "access": "Open to currently enrolled pre-med and medical students. There is an application that involves a form, CV, and letter of motivation.",
+    "organization": "Mission:Brain",
+    "categories": [
+      "Mentorship & Networking",
+      "Research Opportunities"
+    ],
+    "rawCategories": [
+      "Research, mentorship"
+    ],
+    "noHomeStatus": "no",
+    "sources": [
+      "Instagram"
+    ],
+    "postLinks": [
+      "https://www.instagram.com/p/DWl0_1ADZrl/?utm_source=ig_web_copy_link&xtok=MzRlODBiNWFlZA==&srtk=MzRlODBiNWFlZA=="
+    ]
+  },
+  {
+    "id": "r077",
+    "name": "Mission:Brain Global Neurosurgery Resesarch Group (GNRG)",
+    "description": "International collaborative platform for neurosurgery and neuroscience research",
+    "url": "https://www.missionbrain.org/learning-center-post/the-global-neuroscience-research-group-building-knowledge-bridging-worlds",
+    "access": "Targeted for students interested in neurosurgery or neuroscience. Online application during open cycle",
+    "organization": "Mission:Brain",
+    "categories": [
+      "Research Opportunities"
+    ],
+    "rawCategories": [
+      "Research"
+    ],
+    "noHomeStatus": "no",
+    "sources": [
+      "Instagram",
+      "Twitter"
+    ],
+    "postLinks": [
+      "https://www.instagram.com/p/DWpkJcOjlaA/?utm_source=ig_web_copy_link&obrf=NTc4MTIwNjQ2YQ==",
+      "https://x.com/missionbrainorg/status/1800609134120747452?a=dkSGoBKrI3R8KEaq4Es&s=20"
+    ]
+  },
+  {
+    "id": "r106",
+    "name": "Mission:Brain Lisa Hannegan Humanitarian International Neuroscience & Nursing Scholarship (LHHINNS)",
+    "description": "Scholarship offered to medical students, junior residents, nurses and junior scientists. The scholarship is meant to support education, resesearch, and advancement in the field",
+    "url": "https://www.missionbrain.org/scholarships-folder/hannegan-scholarship",
+    "access": "There is an application that requires statement of purpose, project proposal, CV, one support letter, two reccomendation letters, in good standing.",
+    "organization": "Mission:Brain",
+    "categories": [
+      "Research Opportunities",
+      "Application & Match Guidance"
+    ],
+    "rawCategories": [
+      "Scholarship, research"
+    ],
+    "noHomeStatus": "no",
+    "sources": [
+      "Twitter"
+    ],
+    "postLinks": [
+      "https://x.com/missionbrainorg/status/1989459844818980903?a=Rgd2T87QtMLNFMlI7SY&s=20"
+    ]
+  },
+  {
+    "id": "r037",
+    "name": "mission:BRAIN scholarships",
+    "description": "Funding directory for education, observership and training opportunities, including Atlas-access scholarships",
+    "url": "https://www.missionbrain.org/scholarships-folder/scholarships",
+    "access": "Competitive scholarship-specific eligibility. Some awards are for residents or junior surgeons and do not qualify for this review",
+    "organization": "Individual scholarship founders not stated. Organizer: mission:BRAIN",
+    "categories": [
+      "Mentorship & Networking",
+      "Clinical Exposure",
+      "Education"
+    ],
+    "rawCategories": [
+      "Education; Clinical exposure; Mentorship and networking"
+    ],
+    "noHomeStatus": "no",
+    "sources": [
+      "Google"
+    ],
+    "postLinks": []
+  },
+  {
+    "id": "r080",
+    "name": "Mount-Sinai Neurosurgery Sub-Internships",
+    "description": "Fourth year medical student neurosurgery rotation",
+    "url": "https://icahn.mssm.edu/education/residencies-fellowships/list/msh-neurosurgery/medical-students",
+    "access": "Email CV and if application progresses after there is VSLO/VSAS application.",
+    "organization": "Icahn School of Medicine at Mount Sinai Neurosurgery",
+    "categories": [
+      "Clinical Exposure",
+      "Education"
+    ],
+    "rawCategories": [
+      "Sub-internship: education/clinical exposure"
+    ],
+    "noHomeStatus": "no",
+    "sources": [
+      "Instagram"
+    ],
+    "postLinks": [
+      "https://www.instagram.com/p/DW6jz0MjnRr/?utm_source=ig_web_copy_link&dlrf=NTc4MTIwNjQ2YQ=="
+    ]
+  },
+  {
+    "id": "r054",
+    "name": "MSK Medical Student Summer Research Fellowship",
+    "description": "Eight-week external-institution summer research fellowship; brain tumor and neuro-oncology projects may be available.",
+    "url": "https://www.mskcc.org/hcp-education-training/medical-student-opportunities/summer-fellowship",
+    "access": "US accredited medical school M1/M2, full-time, 8 weeks; competitive; compensation to check for year.",
+    "organization": "Memorial Sloan Kettering Cancer Center",
+    "categories": [
+      "Research Opportunities"
+    ],
+    "rawCategories": [
+      "Research"
+    ],
+    "noHomeStatus": "general",
+    "sources": [
+      "Reddit"
+    ],
+    "postLinks": [
+      "https://www.reddit.com/r/medicalschool/comments/1gm2z8q/"
+    ]
+  },
+  {
+    "id": "r028",
+    "name": "Multi-institution Summer Research Scholarship in Neurosurgery",
+    "description": "Collaborating departments offer summer research for students with limited access to neurosurgical mentorship",
+    "url": "https://med.miami.edu/departments/neurosurgery/medical-student-summer-research-scholarship-in-neurosurgery",
+    "access": "Primarily between M1 and M2; selection and host placement required. Calgary participation has Canadian eligibility restrictions.",
+    "organization": "Founder not listed; sponsor: participating neurosurgery departments",
+    "categories": [
+      "Mentorship & Networking",
+      "Research Opportunities"
+    ],
+    "rawCategories": [
+      "Research opportunities; Mentorship and networking"
+    ],
+    "noHomeStatus": "no",
+    "sources": [
+      "Google"
+    ],
+    "postLinks": []
+  },
+  {
+    "id": "r003",
+    "name": "NERVE",
+    "description": "Virtual interest group offering mentorship, educational sessions and opportunities to join Brain & Spine Group research teams",
+    "url": "https://brainandspinegroup.org/mentorship-program/neurosurgery-education-research-virtual-experience-nerve/",
+    "access": "Application/participation requirements apply. Preference includes students without home programs or specialty chapters. Fee not stated on reviewed page; confirm",
+    "organization": "Founded by students at Kansas City University and Campbell University; individual founders not identified on team page. Host: Brain & Spine Group",
+    "categories": [
+      "Mentorship & Networking",
+      "Research Opportunities",
+      "Education",
+      "Community",
+      "Without a Home Program"
+    ],
+    "rawCategories": [
+      "Mentorship and networking; Research opportunities; Education; Community"
+    ],
+    "noHomeStatus": "yes",
+    "sources": [
+      "Google"
+    ],
+    "postLinks": []
+  },
+  {
+    "id": "r070",
+    "name": "Neurosrugery Research and Education Foundation (NREF) Medical student Summer Research Program",
+    "description": "Funded summer neurosurgery resesarch program. Connects students with mentor to do project with.",
+    "url": "https://nref.org/research/medical-student-fellowships/",
+    "access": "Online application containing 3 letteres of reference, purpose statement, student goals, information on research project.",
+    "organization": "Neurosurgery Research and Education Foundation",
+    "categories": [
+      "Mentorship & Networking",
+      "Research Opportunities"
+    ],
+    "rawCategories": [
+      "Research and mentorship"
+    ],
+    "noHomeStatus": "no",
+    "sources": [
+      "Instagram",
+      "Twitter"
+    ],
+    "postLinks": [
+      "https://www.instagram.com/p/DeKKwIzESuP/?utm_source=ig_web_copy_link&cplk=MzRlODBiNWFlZA==&srtk=MzRlODBiNWFlZA==",
+      "https://x.com/TheJNS/status/1897808217188491485?s=20"
+    ]
+  },
+  {
+    "id": "r075",
+    "name": "Neurosurgery Education and Research Virtual Experience Group (NERVE)",
+    "description": "National, virtual program offering research, education, and mentorship.",
+    "url": "https://brainandspinegroup.org/mentorship-program/neurosurgery-education-research-virtual-experience-nerve//",
+    "access": "Mostly for first through third year medical students interested in neurosurgery without a home program. Online application and virtual interview.",
+    "organization": "Brain and Spine group",
+    "categories": [
+      "Mentorship & Networking",
+      "Research Opportunities",
+      "Education",
+      "Without a Home Program"
+    ],
+    "rawCategories": [
+      "Education, mentorship, and research"
+    ],
+    "noHomeStatus": "yes",
+    "sources": [
+      "Instagram",
+      "Twitter"
+    ],
+    "postLinks": [
+      "https://www.instagram.com/p/DIbod7uxSKO/?utm_source=ig_web_copy_link&vrfl=NTc4MTIwNjQ2YQ==",
+      "https://x.com/NERVE_research/status/1790085689817678070?s=20"
+    ]
+  },
+  {
+    "id": "r036",
+    "name": "Neurosurgery Hub",
+    "description": "Public forum with medical-student, applicant and general neurosurgery discussions",
+    "url": "https://neurosurgeryhub.org/",
+    "access": "Public browsing; posting/account rules vary. No home-program prerequisite shown",
+    "organization": "Founder not identified on reviewed page",
+    "categories": [
+      "Application & Match Guidance",
+      "Community"
+    ],
+    "rawCategories": [
+      "Community; Application and match guidance"
+    ],
+    "noHomeStatus": "no",
+    "sources": [
+      "Google"
+    ],
+    "postLinks": []
+  },
+  {
+    "id": "r016",
+    "name": "NeurosurgeryMatch.org applicant guide",
+    "description": "Specialty-specific guidance on mentors, research, away rotations, interviews and residency applications",
+    "url": "https://www.neurosurgerymatch.org/application-process",
+    "access": "Free public webpages. Check current SNS/AAMC cycle guidance before acting on rotation and application rules",
+    "organization": "Founder not confirmed; AANS-linked applicant resource",
+    "categories": [
+      "Mentorship & Networking",
+      "Application & Match Guidance"
+    ],
+    "rawCategories": [
+      "Application and match guidance; Mentorship and networking"
+    ],
+    "noHomeStatus": "no",
+    "sources": [
+      "Google"
+    ],
+    "postLinks": []
+  },
+  {
+    "id": "r074",
+    "name": "NEUROWAVE Neurosurgery Sub-I Bootcamp at Tulane",
+    "description": "Educational one day bootcamp to prepare medical students for sub-internships in neurosurgery.",
+    "url": "",
+    "access": "Open to all medcial students interested in neurosurgery. No application required but early registration is necessary to ensure a spot.",
+    "organization": "NUROWAVE and Tulane AANS collaboration",
+    "categories": [
+      "Education"
+    ],
+    "rawCategories": [
+      "Education"
+    ],
+    "noHomeStatus": "no",
+    "sources": [
+      "Instagram"
+    ],
+    "postLinks": [
+      "https://www.instagram.com/p/DX-Lh-mmLMw/?utm_source=ig_web_copy_link&psln=MzRlODBiNWFlZA==&srtk=MzRlODBiNWFlZA=="
+    ]
+  },
+  {
+    "id": "r052",
+    "name": "NIH Medical Research Scholars Program (MRSP)",
+    "description": "Structured mentored year-long research training for medical, dental and veterinary students at NIH; projects can include neuroscience.",
+    "url": "https://www.cc.nih.gov/training/mrsp",
+    "access": "Competitive application; funded; student status and eligibility rules apply.",
+    "organization": "NIH Clinical Center",
+    "categories": [
+      "Research Opportunities"
+    ],
+    "rawCategories": [
+      "Research"
+    ],
+    "noHomeStatus": "general",
+    "sources": [
+      "Reddit"
+    ],
+    "postLinks": [
+      "https://www.reddit.com/r/medicalschool/comments/1hgl3ph/"
+    ]
+  },
+  {
+    "id": "r053",
+    "name": "NIH Summer Internship Program (SIP)",
+    "description": "Funded in-person summer research placement with NIH intramural labs, including neuroscience-related work.",
+    "url": "https://www.training.nih.gov/research-training/pb/sip/",
+    "access": "US citizen/permanent resident; enrolled professional students eligible; competitive paid stipend; housing not supplied.",
+    "organization": "NIH Office of Intramural Training & Education",
+    "categories": [
+      "Research Opportunities"
+    ],
+    "rawCategories": [
+      "Research"
+    ],
+    "noHomeStatus": "general",
+    "sources": [
+      "Reddit"
+    ],
+    "postLinks": [
+      "https://www.reddit.com/r/medicalschool/comments/1q3yoeh/"
+    ]
+  },
+  {
+    "id": "r051",
+    "name": "Ninja Nerd Neuroanatomy",
+    "description": "Long-form free neuroanatomy instructional videos accessible remotely.",
+    "url": "https://www.youtube.com/@NinjaNerdOfficial",
+    "access": "Free YouTube videos; premium extras optional.",
+    "organization": "Ninja Nerd",
+    "categories": [
+      "Education"
+    ],
+    "rawCategories": [
+      "Education"
+    ],
+    "noHomeStatus": "general",
+    "sources": [
+      "Reddit"
+    ],
+    "postLinks": [
+      "https://www.reddit.com/r/medicalschool/comments/1v3rnmg/"
+    ]
+  },
+  {
+    "id": "r011",
+    "name": "NREF / AANS Early Career Neurosurgeons webinar series",
+    "description": "Recorded webinars on neurosurgery careers and education for medical students and trainees",
+    "url": "https://nref.org/education/online-courses-webinars/",
+    "access": "Public archive linked on NREF's YouTube channel. Live events may require registration. Verify dates of individual episodes",
+    "organization": "Founder not listed; Organizers: NREF and AANS Early Career Neurosurgeons Committee",
+    "categories": [
+      "Education",
+      "Application & Match Guidance"
+    ],
+    "rawCategories": [
+      "Education; Application and match guidance"
+    ],
+    "noHomeStatus": "no",
+    "sources": [
+      "Google"
+    ],
+    "postLinks": []
+  },
+  {
+    "id": "r020",
+    "name": "NREF Medical Student Summer Research Fellowship",
+    "description": "Summer award supporting mentored neurosurgical research",
+    "url": "https://nref.org/research/medical-student-fellowships/",
+    "access": "$2,500 award. US/Canada/Mexico medical students after at least one year; AANS-member neurosurgical investigator sponsor and application required",
+    "organization": "Founder not listed; funder: NREF, AANS philanthropic arm",
+    "categories": [
+      "Research Opportunities"
+    ],
+    "rawCategories": [
+      "Research opportunities"
+    ],
+    "noHomeStatus": "no",
+    "sources": [
+      "Google"
+    ],
+    "postLinks": []
+  },
+  {
+    "id": "r059",
+    "name": "NRMP Charting Outcomes in the Match (2026)",
+    "description": "2026 matched/unmatched outcomes, Step 2 and research experience data, including neurosurgery results.",
+    "url": "https://www.nrmp.org/match-data/2026/07/charting-outcomes-characteristics-of-applicants-who-match-to-their-preferred-specialty-3/",
+    "access": "Free official reports and interactive charts; public.",
+    "organization": "National Resident Matching Program",
+    "categories": [
+      "Application & Match Guidance"
+    ],
+    "rawCategories": [
+      "Application guidance"
+    ],
+    "noHomeStatus": "general",
+    "sources": [
+      "Reddit"
+    ],
+    "postLinks": [
+      "https://www.reddit.com/r/medicalschool/comments/1vd0n18/"
+    ]
+  },
+  {
+    "id": "r017",
+    "name": "NRMP Match Data / Charting Outcomes",
+    "description": "Match statistics and reports on applicant backgrounds, including neurosurgery data",
+    "url": "https://www.nrmp.org/match-data/",
+    "access": "Free public reports and interactive tools. Select the relevant applicant group and year; no home program required",
+    "organization": "Founder not listed; publisher: National Resident Matching Program",
+    "categories": [
+      "Application & Match Guidance"
+    ],
+    "rawCategories": [
+      "Application and match guidance"
+    ],
+    "noHomeStatus": "no",
+    "sources": [
+      "Google"
+    ],
+    "postLinks": []
+  },
+  {
+    "id": "r060",
+    "name": "NRMP Ranking Programs Guide",
+    "description": "Official rules and guidance for creating a residency rank order list, including true preference ranking.",
+    "url": "https://www.nrmp.org/residency-applicants/rank-your-programs-main/",
+    "access": "Free public guide; actual R3 ranking requires Match registration.",
+    "organization": "National Resident Matching Program",
+    "categories": [
+      "Application & Match Guidance"
+    ],
+    "rawCategories": [
+      "Application guidance"
+    ],
+    "noHomeStatus": "general",
+    "sources": [
+      "Reddit"
+    ],
+    "postLinks": [
+      "https://www.reddit.com/r/medicalschool/comments/1qdyx9v/"
+    ]
+  },
+  {
+    "id": "r034",
+    "name": "NYU Neurosurgery Medical Student Training",
+    "description": "Information on visiting subinternships and research opportunities",
+    "url": "https://med.nyu.edu/departments-institutes/neurosurgery/education/medical-student-training",
+    "access": "External students explicitly mentioned for sub-Is and research. VSLO for sub-I; health/training requirements for research. Costs and external mentorship eligibility need confirmation",
+    "organization": "Founder not listed; provider: NYU Langone Department of Neurosurgery",
+    "categories": [
+      "Research Opportunities",
+      "Clinical Exposure"
+    ],
+    "rawCategories": [
+      "Clinical exposure; Research opportunities"
+    ],
+    "noHomeStatus": "no",
+    "sources": [
+      "Google"
+    ],
+    "postLinks": []
+  },
+  {
+    "id": "r023",
+    "name": "OHSU Campagna Scholarship",
+    "description": "Ten-week summer research placement with a neurosurgical mentor",
+    "url": "https://www.ohsu.edu/school-of-medicine/neurosurgery/campagna-scholarship",
+    "access": "First/second-year students at accredited US medical schools. $5,000 travel/living support; up to $2,500 conference-travel support. Competitive application",
+    "organization": "Mario and Edith Campagna, endowers; OHSU administers",
+    "categories": [
+      "Research Opportunities"
+    ],
+    "rawCategories": [
+      "Research opportunities"
+    ],
+    "noHomeStatus": "no",
+    "sources": [
+      "Google"
+    ],
+    "postLinks": []
+  },
+  {
+    "id": "r099",
+    "name": "Pitt Neurosurgery Medical Student Summer Research Scholarship",
+    "description": "9 week neurosurgery research program coordinated across multiple institutions for medical students to partake in before residency",
+    "url": "https://med.miami.edu/departments/neurosurgery/medical-student-summer-research-scholarship-in-neurosurgery",
+    "access": "Mostly for first and second year medical students without access to neurosurgery resesarch/exposure. Involves an application and virtual interview.",
+    "organization": "multi-institutional program",
+    "categories": [
+      "Mentorship & Networking",
+      "Research Opportunities",
+      "Clinical Exposure",
+      "Without a Home Program"
+    ],
+    "rawCategories": [
+      "Research, mentorship, and clinical exposure"
+    ],
+    "noHomeStatus": "yes",
+    "sources": [
+      "Twitter"
+    ],
+    "postLinks": [
+      "https://x.com/PittNeurosurg/status/1886445551505346998?s=20"
+    ]
+  },
+  {
+    "id": "r071",
+    "name": "Pre-Residency Neurosurgery Fellowship at UT Health",
+    "description": "Post-MD graduation fellowship that provides exposure to neurosurgery before residency pplications",
+    "url": "",
+    "access": "MD required. Apply by email to Meredith.L.Hamilton@uth.tmc.edu",
+    "organization": "UT Health Houston Neurosrugery Departmetn",
+    "categories": [
+      "Clinical Exposure"
+    ],
+    "rawCategories": [
+      "Clinical exposure and netowrking"
+    ],
+    "noHomeStatus": "no",
+    "sources": [
+      "Instagram"
+    ],
+    "postLinks": [
+      "https://www.instagram.com/p/DWW8RvkGqiT/?utm_source=ig_web_copy_link&obrf=MzRlODBiNWFlZA==&srtk=MzRlODBiNWFlZA=="
+    ]
+  },
+  {
+    "id": "r078",
+    "name": "RCSI Mentorship Program",
+    "description": "Opporunity for students interested in neurosurgery, neuoscience, or neurology to connect with a mentor.",
+    "url": "",
+    "access": "Online application in instagram bio when open.",
+    "organization": "RCSI Society of Neuroscience. Student-led organizatioln",
+    "categories": [
+      "Mentorship & Networking"
+    ],
+    "rawCategories": [
+      "Mentorship"
+    ],
+    "noHomeStatus": "no",
+    "sources": [
+      "Instagram"
+    ],
+    "postLinks": [
+      "https://www.instagram.com/p/Dd59xgtNy8I/?utm_source=ig_web_copy_link&dlrf=NTc4MTIwNjQ2YQ=="
+    ]
+  },
+  {
+    "id": "r057",
+    "name": "ResMatch specialty application community",
+    "description": "Free specialty forums, interview invitation and matching cycle information, including neurosurgery where supported.",
+    "url": "https://residencymatch.net/",
+    "access": "Free according to r/medicalschool moderators; user signup/features may vary.",
+    "organization": "Independent developer (u/Haunting_Welder)",
+    "categories": [
+      "Application & Match Guidance",
+      "Community"
+    ],
+    "rawCategories": [
+      "Community / application guidance"
+    ],
+    "noHomeStatus": "general",
+    "sources": [
+      "Reddit"
+    ],
+    "postLinks": [
+      "https://www.reddit.com/r/medicalschool/comments/1qdyx9v/"
+    ]
+  },
+  {
+    "id": "r048",
+    "name": "Rhoton Collection (AANS/NREF)",
+    "description": "Free high-resolution microanatomy image and video collection plus interactive anatomical atlas.",
+    "url": "https://www.aans.org/education-publications/references/the-rhoton-collection/",
+    "access": "Free/public; attribution required for reuse.",
+    "organization": "Albert L. Rhoton Jr.; AANS/NREF",
+    "categories": [
+      "Education"
+    ],
+    "rawCategories": [
+      "Education"
+    ],
+    "noHomeStatus": "general",
+    "sources": [
+      "Reddit"
+    ],
+    "postLinks": [
+      "https://www.reddit.com/r/medicalschool/comments/p56ovj/"
+    ]
+  },
+  {
+    "id": "r024",
+    "name": "Rochester Rusyniak Summer Fellowship",
+    "description": "Summer clinical or translational neurosurgery research with faculty mentorship",
+    "url": "https://www.urmc.rochester.edu/education/graduate-medical-education/prospective-residents/neurosurgery/fellowship-opportunity",
+    "access": "Years 1–3 at accredited US/Canadian medical schools. Mentor pairing and proposal required. $6,000 award; at least six weeks",
+    "organization": "Founder not listed; University of Rochester; director Melissa LoPresti; honors W. George Rusyniak",
+    "categories": [
+      "Research Opportunities"
+    ],
+    "rawCategories": [
+      "Research opportunities"
+    ],
+    "noHomeStatus": "no",
+    "sources": [
+      "Google"
+    ],
+    "postLinks": []
+  },
+  {
+    "id": "r025",
+    "name": "Rochester Rusyniak Year-Long Fellowship",
+    "description": "Year-out research award supervised by Rochester neurosurgery faculty",
+    "url": "https://www.urmc.rochester.edu/education/graduate-medical-education/prospective-residents/neurosurgery/fellowship-opportunity",
+    "access": "Years 1–3 at accredited US/Canadian schools; existing Rochester neurosurgery relationship and productive research record. Up to $30,000",
+    "organization": "Founder not listed; University of Rochester; director Melissa LoPresti",
+    "categories": [
+      "Research Opportunities"
+    ],
+    "rawCategories": [
+      "Research opportunities"
+    ],
+    "noHomeStatus": "no",
+    "sources": [
+      "Google"
+    ],
+    "postLinks": []
+  },
+  {
+    "id": "r086",
+    "name": "Rutgers Annual Neurosurgery Research Symposium",
+    "description": "Annual research symposium that offers the change to learn from presenters and network. Can participate as a presenter or an attendee.",
+    "url": "https://sites.rutgers.edu/neurological-surgery/neurosurgery-research-symposium/",
+    "access": "Presenters must submit an application and abstract, attendees just have to register.",
+    "organization": "Rutger's department of Neurological Surgery",
+    "categories": [
+      "Education"
+    ],
+    "rawCategories": [
+      "Netowrking and education"
+    ],
+    "noHomeStatus": "no",
+    "sources": [
+      "Instagram"
+    ],
+    "postLinks": [
+      "https://www.instagram.com/p/DU3eJT8jjyo/"
+    ]
+  },
+  {
+    "id": "r040",
+    "name": "SNS Recruitment Guidelines and Letters of Recommendation",
+    "description": "Official recruitment guidance and the standardized recommendation form for neurosurgery applicants",
+    "url": "https://www.societyns.org/medical-students/external-medical-student-rotations",
+    "access": "Free public guidance; check the cycle shown on each document",
+    "organization": "Founder not listed; publisher: Society of Neurological Surgeons",
+    "categories": [
+      "Application & Match Guidance"
+    ],
+    "rawCategories": [
+      "Application and match guidance"
+    ],
+    "noHomeStatus": "no",
+    "sources": [
+      "Google"
+    ],
+    "postLinks": []
+  },
+  {
+    "id": "r104",
+    "name": "Student National Medical Association (SNMA) Neurosurgery Interest Group",
+    "description": "National neurosurgery interest groups that offers mentorship, networking, and educational opportunities for medical students and pre-medical students interested in pursuing neurosurgery.",
+    "url": "https://snma.org/page/SIG",
+    "access": "No formal application or restricted access. Students are encouraged to email neuro@snma.org to request access to the GroupMe.",
+    "organization": "SNMA",
+    "categories": [
+      "Mentorship & Networking",
+      "Education"
+    ],
+    "rawCategories": [
+      "Mentorship, networking, education"
+    ],
+    "noHomeStatus": "no",
+    "sources": [
+      "Twitter"
+    ],
+    "postLinks": [
+      "https://x.com/SNMA/status/2114794309295763631?a=5vh1ri62WkAOGT1uCBE&s=20"
+    ]
+  },
+  {
+    "id": "r085",
+    "name": "Student Neurosurgery Congress Organizing Team",
+    "description": "Opportunity that allows medical students to participate in organization of the Medical Student's World Congress of Neurosurgery.",
+    "url": "https://wedns.org/krakow2026-about-this-congress/",
+    "access": "During the open cycle, a link to the application is provided in the instagram bio",
+    "organization": "Neuosurgical Society/ Walter E. Dandy",
+    "categories": [
+      "Mentorship & Networking"
+    ],
+    "rawCategories": [
+      "Leadership and networking"
+    ],
+    "noHomeStatus": "no",
+    "sources": [
+      "Instagram"
+    ],
+    "postLinks": [
+      "https://www.instagram.com/p/DTL2pzgDGGr/?utm_source=ig_web_copy_link&srtk=NTc4MTIwNjQ2YQ=="
+    ]
+  },
+  {
+    "id": "r019",
+    "name": "Texas STAR",
+    "description": "Survey data from residency applicants to help students decide where to apply",
+    "url": "https://medschool.utsouthwestern.edu/about-the-school/student-affairs/texas-star.html",
+    "access": "Access through a participating medical school and student-affairs dean/adviser. Not publicly accessible; individual price not stated",
+    "organization": "Founder not listed; administrator: UT Southwestern",
+    "categories": [
+      "Application & Match Guidance"
+    ],
+    "rawCategories": [
+      "Application and match guidance"
+    ],
+    "noHomeStatus": "no",
+    "sources": [
+      "Google"
+    ],
+    "postLinks": []
+  },
+  {
+    "id": "r042",
+    "name": "The DO — How to specialize in neurosurgery",
+    "description": "Career advice for osteopathic students on clinical exposure, research and preparing for neurosurgery",
+    "url": "https://thedo.osteopathic.org/columns/how-to-specialize-in-neurosurgery/",
+    "access": "Free article; advice and statistics reflect its publication date",
+    "organization": "Founder not applicable; author: Brian Fiani, DO; publisher: American Osteopathic Association / The DO",
+    "categories": [
+      "Application & Match Guidance"
+    ],
+    "rawCategories": [
+      "Application and match guidance"
+    ],
+    "noHomeStatus": "no",
+    "sources": [
+      "Google"
+    ],
+    "postLinks": []
+  },
+  {
+    "id": "r047",
+    "name": "The Neurosurgical Atlas",
+    "description": "Operative neurosurgery atlas with technique tutorials, illustrations and surgical videos.",
+    "url": "https://www.neurosurgicalatlas.com/",
+    "access": "Registration; some material requires subscription; free trial/free content may change.",
+    "organization": "Aaron A. Cohen-Gadol, MD",
+    "categories": [
+      "Education"
+    ],
+    "rawCategories": [
+      "Education"
+    ],
+    "noHomeStatus": "general",
+    "sources": [
+      "Reddit"
+    ],
+    "postLinks": [
+      "https://www.reddit.com/r/Neurosurgery/comments/108am4y/"
+    ]
+  },
+  {
+    "id": "r013",
+    "name": "The Neurosurgical Atlas — free-content component",
+    "description": "Surgical videos and learning materials, with some free content and a paid subscription for the full library",
+    "url": "https://www.neurosurgicalatlas.com/",
+    "access": "Free registration advertised; full library is subscription-based. Confirm which student-relevant materials remain freely accessible",
+    "organization": "Aaron Cohen-Gadol, founder",
+    "categories": [
+      "Education"
+    ],
+    "rawCategories": [
+      "Education"
+    ],
+    "noHomeStatus": "no",
+    "sources": [
+      "Google"
+    ],
+    "postLinks": []
+  },
+  {
+    "id": "r012",
+    "name": "The Rhoton Collection",
+    "description": "Neuroanatomy slides, lectures and interactive 2D/3D atlas for independent study",
+    "url": "https://www.aans.org/education-publications/references/the-rhoton-collection/",
+    "access": "Collection described as free; account/login may be needed. AANS members have complimentary access. Attribution required for reuse",
+    "organization": "Albert L. Rhoton Jr., creator of teaching materials. Supported by AANS/NREF",
+    "categories": [
+      "Education"
+    ],
+    "rawCategories": [
+      "Education"
+    ],
+    "noHomeStatus": "no",
+    "sources": [
+      "Google"
+    ],
+    "postLinks": []
+  },
+  {
+    "id": "r045",
+    "name": "Touch Surgery Simulations",
+    "description": "Free interactive step-by-step surgical procedure simulations, including neurosurgical topics.",
+    "url": "https://www.medtronic.com/en-us/healthcare-professionals/specialties/touch-surgery/simulations.html",
+    "access": "Free app; mobile device; some content/registration may vary.",
+    "organization": "Medtronic",
+    "categories": [
+      "Education"
+    ],
+    "rawCategories": [
+      "Education"
+    ],
+    "noHomeStatus": "general",
+    "sources": [
+      "Reddit"
+    ],
+    "postLinks": [
+      "https://www.reddit.com/r/medicalschool/comments/p56ovj/"
+    ]
+  },
+  {
+    "id": "r049",
+    "name": "TR Neurosurgery Board Review",
+    "description": "Free mobile flashcard and rapid-review board resource developed by neurosurgery trainees.",
+    "url": "https://apps.apple.com/id/app/tr-neurosurgery-board-review/id1450851377",
+    "access": "Free iPhone app; App Store regional availability may vary.",
+    "organization": "Nathan Todnem, MD; Vamsi Reddy",
+    "categories": [
+      "Education"
+    ],
+    "rawCategories": [
+      "Education"
+    ],
+    "noHomeStatus": "general",
+    "sources": [
+      "Reddit"
+    ],
+    "postLinks": [
+      "https://www.reddit.com/r/Neurosurgery/comments/108am4y/"
+    ]
+  },
+  {
+    "id": "r098",
+    "name": "Tumor Section at CNS annual meeting",
+    "description": "A section at the annaul CNS symposium that allows students the change to learn about neurosurgical tumors and netowrk,",
+    "url": "https://www.cns.org/meetings-detail/joint-tumor-section-symposium",
+    "access": "Register for the annual CNS meeting online. Open to all students, residents, researchers, and attendings want to attend/learn.",
+    "organization": "AANS/CNS Joint Tumor Section",
+    "categories": [
+      "Mentorship & Networking"
+    ],
+    "rawCategories": [
+      "Networking, mentorship"
+    ],
+    "noHomeStatus": "no",
+    "sources": [
+      "Twitter"
+    ],
+    "postLinks": [
+      "https://x.com/NSTumorSection/status/2112242458318811301?s=20"
+    ]
+  },
+  {
+    "id": "r064",
+    "name": "UBC Functional Neuroanatomy",
+    "description": "Free university-created neuroanatomy learning hub with 3D models, MRIs, interactive modules and videos.",
+    "url": "https://www.neuroanatomy.ca/",
+    "access": "Free/open-access; no institutional affiliation required.",
+    "organization": "University of British Columbia Department of Anatomy",
+    "categories": [
+      "Education"
+    ],
+    "rawCategories": [
+      "Education"
+    ],
+    "noHomeStatus": "general",
+    "sources": [
+      "Reddit"
+    ],
+    "postLinks": [
+      "https://www.reddit.com/r/medicalschool/comments/1nd0vpu/"
+    ]
+  },
+  {
+    "id": "r076",
+    "name": "UBNS and BSG Neurosurgery Training Camp",
+    "description": "Education and hands-on neurosurgical training for medical students",
+    "url": "https://neurosurgerytraining.brainandspinegroup.org",
+    "access": "Targeted for medical students at any stage of training. Application not required. Registration for the event is all that is necessary",
+    "organization": "Brain and Spine group and the University of Buffalo Neurosurgery department",
+    "categories": [
+      "Mentorship & Networking",
+      "Education"
+    ],
+    "rawCategories": [
+      "Education and mentorship"
+    ],
+    "noHomeStatus": "no",
+    "sources": [
+      "Instagram"
+    ],
+    "postLinks": [
+      "https://www.instagram.com/p/DYSLO6MR_1g/?utm_source=ig_web_copy_link&obrf=NTc4MTIwNjQ2YQ=="
+    ]
+  },
+  {
+    "id": "r031",
+    "name": "UCLA Neurosurgery Scholarship",
+    "description": "Reimbursement supporting elective application and travel expenses for visiting students",
+    "url": "https://www.uclahealth.org/departments/neurosurgery/education/clerkships-sub-internships/neurosurgery-scholarship",
+    "access": "Upcoming fourth-year students at accredited US medical schools, VSLO eligibility and essay; up to $3,000 reimbursement. Apply at least 60 days before rotation",
+    "organization": "Founder not listed; provider: UCLA Department of Neurosurgery",
+    "categories": [
+      "Clinical Exposure"
+    ],
+    "rawCategories": [
+      "Clinical exposure"
+    ],
+    "noHomeStatus": "no",
+    "sources": [
+      "Google"
+    ],
+    "postLinks": []
+  },
+  {
+    "id": "r073",
+    "name": "University of Minnesota Medical Student Summer Research Scholarship in Neurosurgery",
+    "description": "9 week neurosurgery research program coordinated across multiple institutions for medical students to partake in before residency.",
+    "url": "https://med.miami.edu/departments/neurosurgery/medical-student-summer-research-scholarship-in-neurosurgery",
+    "access": "Mostly for first and second year medical students without access to neurosurgery resesarch/exposure. Involves an application and virtual interview.",
+    "organization": "Multi-institutional program",
+    "categories": [
+      "Mentorship & Networking",
+      "Research Opportunities",
+      "Clinical Exposure",
+      "Without a Home Program"
+    ],
+    "rawCategories": [
+      "Research, mentorship, and clinical exposure"
+    ],
+    "noHomeStatus": "yes",
+    "sources": [
+      "Instagram"
+    ],
+    "postLinks": [
+      "https://www.instagram.com/p/DUqq3GqEZLM/?utm_source=ig_web_copy_link&vrfl=MzRlODBiNWFlZA==&srtk=MzRlODBiNWFlZA=="
+    ]
+  },
+  {
+    "id": "r033",
+    "name": "University of Washington Neurosurgery Sub-I",
+    "description": "Four-week visiting rotation across adult and pediatric neurosurgery services",
+    "url": "https://neurosurgery.uw.edu/node/145",
+    "access": "Visiting students apply via VSLO; host selection and school requirements apply. Application, travel and housing costs require confirmation",
+    "organization": "Founder not listed; provider: University of Washington",
+    "categories": [
+      "Clinical Exposure"
+    ],
+    "rawCategories": [
+      "Clinical exposure"
+    ],
+    "noHomeStatus": "no",
+    "sources": [
+      "Google"
+    ],
+    "postLinks": []
+  },
+  {
+    "id": "r046",
+    "name": "UpSurgeOn Neurosurgery",
+    "description": "Neurosurgery-specific 3D anatomy and surgical planning/simulation app.",
+    "url": "https://apps.apple.com/us/app/upsurgeon-neurosurgery/id1523622116",
+    "access": "Free download; some in-app features/purchases.",
+    "organization": "UpSurgeOn",
+    "categories": [
+      "Education"
+    ],
+    "rawCategories": [
+      "Education"
+    ],
+    "noHomeStatus": "general",
+    "sources": [
+      "Reddit"
+    ],
+    "postLinks": [
+      "https://www.reddit.com/r/Neurosurgery/comments/108am4y/"
+    ]
+  },
+  {
+    "id": "r081",
+    "name": "URMC Rusyniak Memorial Medical Student Research Fellowship",
+    "description": "Funded neurosurgery reseasrch fellowship that allows students to partake in clinical or translational resesarch with a faculty member at URMC. There is both a year-long and summer internship available.",
+    "url": "https://www.urmc.rochester.edu/education/graduate-medical-education/prospective-residents/neurosurgery/fellowship-opportunity",
+    "access": "Must be a first, second, or third year medical student at an accredited medical school in the U.S. or Canada. Students should have an established relationship with the neurosurgery department at URMC. Students encouraged to email Rusyniak_Fellowship@URMC.Rochester.edu for more information. There is an application that requires a personal statement, resesarch proposal, letter from mentor, and letter outside of mentorship paring.",
+    "organization": "University of Rochester Neurosurgery department.",
+    "categories": [
+      "Education",
+      "Research Opportunities"
+    ],
+    "rawCategories": [
+      "Resesarch",
+      "Research"
+    ],
+    "noHomeStatus": "no",
+    "sources": [
+      "Instagram",
+      "Twitter"
+    ],
+    "postLinks": [
+      "https://www.instagram.com/p/DKijt6IO7zO/?utm_source=ig_web_copy_link&cplk=NTc4MTIwNjQ2YQ==",
+      "https://x.com/URNeurosurgery/status/1917632911303417991?a=lXZtpLUrrdliK9-ynd4&s=20"
+    ]
+  },
+  {
+    "id": "r039",
+    "name": "USF Medical Student Neurosurgery Resources",
+    "description": "A collection of links to neurosurgery societies, learning tools and career resources",
+    "url": "https://health.usf.edu/medicine/neurosurgery/education/med-students/resources",
+    "access": "Free public list. Linked MedOne access uses USF authentication and is not independently open",
+    "organization": "Founder not listed; publisher: USF Department of Neurosurgery",
+    "categories": [
+      "Education",
+      "Application & Match Guidance"
+    ],
+    "rawCategories": [
+      "Education; Application and match guidance"
+    ],
+    "noHomeStatus": "no",
+    "sources": [
+      "Google"
+    ],
+    "postLinks": []
+  },
+  {
+    "id": "r093",
+    "name": "UWIN Scholarship ( Under represented women in neurosurgery",
+    "description": "Scholarship opportunity to support underrepresented women who are interested in pursuing neurosurgery.",
+    "url": "https://docs.google.com/forms/d/e/1FAIpQLScnynZ_0pXy23_33jcTXcsZMZ3akEWK_3-gEKEENdgocC3IKw/closedform",
+    "access": "Open to medical students and residents. There is a google form application to fill out that is linked in the post.",
+    "organization": "Underrepresented Women in Neurosurgery",
+    "categories": [
+      "Mentorship & Networking",
+      "Education"
+    ],
+    "rawCategories": [
+      "Mentorship, education, networking"
+    ],
+    "noHomeStatus": "no",
+    "sources": [
+      "Instagram"
+    ],
+    "postLinks": [
+      "https://www.instagram.com/p/DPmKYFpDirR/?utm_source=ig_web_copy_link&psln=NTc4MTIwNjQ2YQ=="
+    ]
+  },
+  {
+    "id": "r050",
+    "name": "Viktor’s Notes / NeurosurgeryResident.net",
+    "description": "Free searchable neurosurgery learning notes and reference articles.",
+    "url": "https://neurosurgeryresident.net/",
+    "access": "Free/public web browsing.",
+    "organization": "Site author (individual; unconfirmed full name)",
+    "categories": [
+      "Education"
+    ],
+    "rawCategories": [
+      "Education"
+    ],
+    "noHomeStatus": "general",
+    "sources": [
+      "Reddit"
+    ],
+    "postLinks": [
+      "https://www.reddit.com/r/Neurosurgery/comments/108am4y/"
+    ]
+  },
+  {
+    "id": "r026",
+    "name": "Weill Cornell Medical Student Neurosurgery Fellowship",
+    "description": "One-year pediatric neuro-oncology research fellowship with graduate coursework",
+    "url": "https://neurosurgery.weill.cornell.edu/education/medical-student-programs-neurological-surgery/medical-student-fellowship",
+    "access": "Accredited North American medical school, at least two years completed, year off, host faculty sponsor and dean support. $32,000 stipend plus specified research dissemination support",
+    "organization": "Founder not listed; host: Weill Cornell; director Mark Souweidane",
+    "categories": [
+      "Research Opportunities"
+    ],
+    "rawCategories": [
+      "Research opportunities"
+    ],
+    "noHomeStatus": "no",
+    "sources": [
+      "Google"
+    ],
+    "postLinks": []
+  },
+  {
+    "id": "r029",
+    "name": "Weill Cornell Surgical Neuroanatomy Research Elective",
+    "description": "Visiting-student laboratory elective combining dissections, research and basic operative anatomy skills",
+    "url": "https://neurosurgicalinnovations.weill.cornell.edu/education/elective",
+    "access": "No program fee. Currently enrolled near-final-year medical students with neurosurgery/ENT interest; minimum one month. Graduates ineligible. Travel/housing not covered in listing",
+    "organization": "Founder not listed; host: Weill Cornell Neurosurgical Innovations & Training Center",
+    "categories": [
+      "Research Opportunities",
+      "Education"
+    ],
+    "rawCategories": [
+      "Education; Research opportunities"
+    ],
+    "noHomeStatus": "no",
+    "sources": [
+      "Google"
+    ],
+    "postLinks": []
+  },
+  {
+    "id": "r009",
+    "name": "WINS Medical Student Committee",
+    "description": "Student events, research, leadership and community activities within Women in Neurosurgery",
+    "url": "https://neurosurgerywins.org/medical-students/",
+    "access": "Medical students of any gender welcome. Full access requires AANS/WINS membership; WINS page describes free enrollment options. Leadership requires application",
+    "organization": "Founder not listed; organizer: WINS",
+    "categories": [
+      "Mentorship & Networking",
+      "Research Opportunities",
+      "Community"
+    ],
+    "rawCategories": [
+      "Community; Mentorship and networking; Research opportunities"
+    ],
+    "noHomeStatus": "no",
+    "sources": [
+      "Google"
+    ],
+    "postLinks": []
+  },
+  {
+    "id": "r102",
+    "name": "WINS Medical Student Committee Leadership",
+    "description": "National leadership opportunity to serve on the WINS medical student committee. Connects medical students with the neurosurgery community and fosters involvement. Students colaborate with other medical students on WINS initiatives.",
+    "url": "https://neurosurgerywins.org/medical-students/",
+    "access": "Online application when the cycle opens. Open to all medical students.",
+    "organization": "WINS",
+    "categories": [
+      "Mentorship & Networking"
+    ],
+    "rawCategories": [
+      "Leadership, networking"
+    ],
+    "noHomeStatus": "no",
+    "sources": [
+      "Twitter"
+    ],
+    "postLinks": [
+      "https://x.com/Inside_TheMatch/status/1665505280346537986?s=20"
+    ]
+  },
+  {
+    "id": "r004",
+    "name": "WINS Mentorship Program",
+    "description": "Connects medical students with neurosurgery mentors for career and application guidance",
+    "url": "https://neurosurgerywins.org/mentorship/",
+    "access": "Annual application, generally May/June. Medical students eligible. Confirm current fee, membership prerequisite and matching cycle",
+    "organization": "Founder not listed; organizer: Women in Neurosurgery",
+    "categories": [
+      "Mentorship & Networking",
+      "Application & Match Guidance"
+    ],
+    "rawCategories": [
+      "Mentorship and networking; Application and match guidance"
+    ],
+    "noHomeStatus": "no",
+    "sources": [
+      "Google"
+    ],
+    "postLinks": []
+  },
+  {
+    "id": "r097",
+    "name": "WINS Neurogenesis Leadership Program",
+    "description": "A 3-month peer-led journey in leadership, neurosurgical exposure, and hands-on skills.",
+    "url": "https://neurosurgerywins.org/event/neurogenesis-leadership-program/",
+    "access": "Must be a medical student without a home program/access to neurosurgery exposure. Application required and is usually in the format of a google form",
+    "organization": "Comittee of WINS",
+    "categories": [
+      "Mentorship & Networking",
+      "Clinical Exposure",
+      "Without a Home Program"
+    ],
+    "rawCategories": [
+      "Mentorship, leadership, clinical exposure"
+    ],
+    "noHomeStatus": "yes",
+    "sources": [
+      "Twitter"
+    ],
+    "postLinks": [
+      "https://x.com/WomenInNSGY/status/1988072296071025114?s=20"
+    ]
+  },
+  {
+    "id": "r095",
+    "name": "WINS Scrubbed Out",
+    "description": "Virtual mentorship platform that connects medical students with neurosurgery residents. It is a casual space that allows students the opportunity to ask questions and learn.",
+    "url": "",
+    "access": "Sign up form prior to the event",
+    "organization": "WINS resident comittee",
+    "categories": [
+      "Mentorship & Networking",
+      "Education"
+    ],
+    "rawCategories": [
+      "Mentorship, education, networking"
+    ],
+    "noHomeStatus": "no",
+    "sources": [
+      "Twitter"
+    ],
+    "postLinks": [
+      "https://x.com/WomenInNSGY/status/2112348071594000669?s=20"
+    ]
+  },
+  {
+    "id": "r094",
+    "name": "WINS Virtual Discussions with neurosurgeons",
+    "description": "Virtual discussions with neurosurgeons that allow students the opportunity to learn and gain exposure",
+    "url": "",
+    "access": "Open to students who are interested in learning more about neurosurgery. There is no formal application, just a form to fill out for registration.",
+    "organization": "WINS",
+    "categories": [
+      "Education"
+    ],
+    "rawCategories": [
+      "Education"
+    ],
+    "noHomeStatus": "no",
+    "sources": [
+      "Instagram"
+    ],
+    "postLinks": [
+      "https://www.instagram.com/p/DZGCWj_GTzT/?utm_source=ig_web_copy_link&xtok=MzRlODBiNWFlZA==&srtk=MzRlODBiNWFlZA=="
+    ]
+  },
+  {
+    "id": "r068",
+    "name": "Women in Neurosurgery (WINS) Mentorship In a Minute",
+    "description": "One-on-one virtual mentorship meetings between medical students and resdients/fellows.",
+    "url": "",
+    "access": "Online application. Sign-up form open prior to event",
+    "organization": "Comittee of WINS",
+    "categories": [
+      "Mentorship & Networking"
+    ],
+    "rawCategories": [
+      "Mentorship and networking",
+      "Mentorship, Netowrking"
+    ],
+    "noHomeStatus": "no",
+    "sources": [
+      "Instagram",
+      "Twitter"
+    ],
+    "postLinks": [
+      "https://www.instagram.com/p/DeLDzjCszFQ/?utm_source=ig_web_copy_link&psln=MzRlODBiNWFlZA==&srtk=MzRlODBiNWFlZA==",
+      "https://x.com/WomenInNSGY/status/1911405898381033604?s=20"
+    ]
+  },
+  {
+    "id": "r066",
+    "name": "Women in Neurosurgery (WINS) Nurogenesis Leadership Program",
+    "description": "A 3-month peer-led journey in leadership, neurosurgical exposure, and hands-on skills.",
+    "url": "https://neurosurgerywins.org/event/neurogenesis-leadership-program/",
+    "access": "Must be a medical student without a home program/access to neurosurgery exposure. Application required and is usually in the format of a google form",
+    "organization": "Comittee of WINS",
+    "categories": [
+      "Mentorship & Networking",
+      "Clinical Exposure",
+      "Without a Home Program"
+    ],
+    "rawCategories": [
+      "Mentorship, leadership, clinical exposure"
+    ],
+    "noHomeStatus": "yes",
+    "sources": [
+      "Instagram"
+    ],
+    "postLinks": [
+      "https://www.instagram.com/p/DQ5FitfEsDT/?utm_source=ig_web_copy_link&srtk=MzRlODBiNWFlZA=="
+    ]
+  },
+  {
+    "id": "r044",
+    "name": "Yale Neurosurgery Visiting Subinternship",
+    "description": "Four weeks on the neurosurgery service with supervised clinical work and academic conferences",
+    "url": "https://medicine.yale.edu/md-program/curriculum/advancedtraining/clinicalelectives/electivecataloglisting/neurosurgery/",
+    "access": "Visiting students accepted; catalog lists years 3–5; external application route linked; school approval and current eligibility, fees, housing and travel need checking",
+    "organization": "Founder not listed; provider: Yale School of Medicine",
+    "categories": [
+      "Clinical Exposure"
+    ],
+    "rawCategories": [
+      "Clinical exposure"
+    ],
+    "noHomeStatus": "no",
+    "sources": [
+      "Google"
+    ],
+    "postLinks": []
+  }
+]
